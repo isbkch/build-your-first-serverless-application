@@ -1,0 +1,1 @@
+{"buildTargets":["build-local-functions","deploy","destroy","invoke-get-all-orders","logs","make","sync","validate-template"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
